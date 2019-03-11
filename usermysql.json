@@ -1,0 +1,13 @@
+{
+    "host": "us-cdbr-iron-east-03.cleardb.net/heroku_f386c4c00e3fe6d",
+    "port": 3306,
+    "user": "ss",
+    "password": "pass",
+    "db": "sspanel",
+    "node_id": 0,
+    "transfer_mul": 1.0,
+    "ssl_enable": 0,
+    "ssl_ca": "",
+    "ssl_cert": "",
+    "ssl_key": ""
+} 
