@@ -1,1 +1,1 @@
-python server.py -p 443 -k brade1314 -m aes-128-cfb -O auth_aes128_md5 -o tls1.2_ticket_auth_compatible
+sh ./shadowsocks/run.sh
